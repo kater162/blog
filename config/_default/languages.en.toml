@@ -9,10 +9,10 @@ title = "KTR Tech Labs"
   isoCode = "en"
   rtl = false
   dateFormat = "2006-01-02"
-  # logo = "img/logo.png"
+  logo = "img/logo.jpeg"
   # secondaryLogo = "img/secondary-logo.png"
-  # description = "My awesome website"
-  # copyright = "Copy, _right?_ :thinking_face:"
+  description = "A collection of random thoughts and projects."
+  copyright = "Copy, _right?_ :thinking_face:"
 
 [params.author]
    name = "Kater"
@@ -21,7 +21,7 @@ title = "KTR Tech Labs"
 #   imageQuality = 96
    headline = "Just someone doing stuff"
    bio = "I visit the internet sometimes"
-#   links = [
+   links = [
 #     { email = "mailto:hello@your_domain.com" },
 #     { link = "https://link-to-some-website.com/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
@@ -35,7 +35,7 @@ title = "KTR Tech Labs"
 #     { facebook = "https://facebook.com/username" },
 #     { flickr = "https://www.flickr.com/photos/username/" },
 #     { foursquare = "https://foursquare.com/username" },
-#     { github = "https://github.com/username" },
+     { github = "https://github.com/kater162" },
 #     { gitlab = "https://gitlab.com/username" },
 #     { google = "https://www.google.com/" },
 #     { hashnode = "https://username.hashnode.dev" },
@@ -74,4 +74,4 @@ title = "KTR Tech Labs"
 #     { ko-fi = "https://ko-fi.com/username" },
 #     { codeberg = "https://codeberg.org/username"},
 #     { printables = "https://www.printables.com/@username"},
-#   ]
+   ]
