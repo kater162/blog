@@ -12,15 +12,15 @@ title = "KTR Tech Labs"
   logo = "img/logo.png"
   # secondaryLogo = "img/secondary-logo.png"
   description = "A collection of random thoughts and projects."
-  copyright = "Copy, _right?_ :thinking_face:"
+  # copyright = "Copy, _right?_ :thinking_face:"
 
 [params.author]
    name = "Kater"
    email = "contact@ktrtechlabs.com"
 #   image = "img/blowfish_logo.png"
 #   imageQuality = 96
-   headline = "Just someone doing stuff"
-   bio = "I visit the internet sometimes"
+   headline = "Just someone doing stuff."
+   bio = "I visit the internet sometimes."
    links = [
 #     { email = "mailto:hello@your_domain.com" },
 #     { link = "https://link-to-some-website.com/" },
